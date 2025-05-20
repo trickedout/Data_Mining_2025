@@ -1,1 +1,1 @@
-The entire process of data analysis is contained in data_analysis.ipynb. Just modify the data path and run the notebook.
+HW*.ipynb分别对应作业1、2的Jupyter Notebook，修改文件路径运行即可。
